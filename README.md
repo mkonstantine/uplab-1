@@ -7,7 +7,8 @@
 ____
 # Заголовок 1
 ```html
-  function DNAStrand(dna){
+  function DNAStrand(dna)
+{
   var string = "" ;
   for(var i = 0 ; i < dna.length ; i++)
   {
